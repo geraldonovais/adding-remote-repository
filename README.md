@@ -1,4 +1,4 @@
-# Adding a remote repository
+# Adding a Remote Repository
 
 - Create a repository on GitHub using the [New Repository](https://github.com/new) page. 
 
